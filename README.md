@@ -11,7 +11,7 @@ A secure and transparent voting application built on the Ethereum blockchain usi
 - **Frontend:** React.js
 - **Backend:** Solidity, Web3.js
 - **Blockchain:** Ethereum
-- **Tools:** Truffle, Ganache
+- **Tools:** Truffle, Ganache.
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/)
