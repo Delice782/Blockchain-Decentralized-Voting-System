@@ -7,6 +7,7 @@ const App = () => {
   const [contract, setContract] = useState(null);
   const [candidates, setCandidates] = useState([]);
   const [electionName, setElectionName] = useState("");
+  
 
   useEffect(() => {
     const init = async () => {
